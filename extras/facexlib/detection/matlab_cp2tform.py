@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 import numpy as np
 from numpy.linalg import inv, lstsq
 from numpy.linalg import matrix_rank as rank
