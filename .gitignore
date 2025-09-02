@@ -42,7 +42,6 @@ user_path_config-deprecated.txt
 /notification.mp3
 /SwinIR
 /textual_inversion
-.vscode
 /extensions
 /test/stdout.txt
 /test/stderr.txt
@@ -53,3 +52,4 @@ user_path_config-deprecated.txt
 /.coverage*
 /auth.json
 .DS_Store
+config.bat
